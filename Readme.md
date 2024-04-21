@@ -1,8 +1,8 @@
-# Flix-Backend Service
+# Movies-Backend Service
 
 ## Introduction
 
-Flix-Backend is a comprehensive backend service designed to support a front-end application for browsing, managing, and tracking movies and TV shows. It includes functionalities for user authentication, managing watchlists, and accessing detailed information about various entertainment media.
+AB-Movies-Backend is a comprehensive backend service designed to support a front-end application for browsing, managing, and tracking movies and TV shows. It includes functionalities for user authentication, managing watchlists, and accessing detailed information about various entertainment media.
 
 ## Table Of Contents
 
@@ -14,7 +14,6 @@ Flix-Backend is a comprehensive backend service designed to support a front-end 
 - [Installation and setup](#setup-instructions)
 - [API Endpoints](#detailed-api-endpoints)
 - [Aditional Notes](#additional-notes)
-- [License](#license)
 
 </details>
 
@@ -36,8 +35,8 @@ Flix-Backend is a comprehensive backend service designed to support a front-end 
 ### Step 1: Clone the Repository
 
 ```sh
-git clone https://github.com/Deep-Thakkar-1910/AB_Flix_Backend.git
-cd AB_Flix_Backend
+git clone https://github.com/Belalirshad/AB-Movies-Backend.git
+cd AB-Movies-Backend
 ```
 
 ### Step 2: Environment Configuration
@@ -136,6 +135,3 @@ npm install
 - Ensure MongoDB is running and accessible through the `MONGODB_CONNECTION_STRING` specified in the `.env` file.
 - When running in Docker, ensure the MongoDB connection string (`MONGODB_CONNECTION_STRING`) is set to the appropriate container name
 
-## License
-
-This project is Distributed under the MIT License. See [LICENSE.txt](./LICENSE.txt) for more information.
