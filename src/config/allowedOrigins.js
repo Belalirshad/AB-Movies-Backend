@@ -2,7 +2,7 @@
 const allowedOrigins = [
   "http://localhost:5173",
   "http://localhost:3000",
-  "https://flixbackend.onrender.com",
+  "https://ab-movies-backend.onrender.com/",
   "https://ab-flix-frontend.onrender.com",
 ];
 
